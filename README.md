@@ -1,5 +1,5 @@
 # Seamless-Layout
-Seamless Background-images Layout.<br/>
+Seamless Background-images Layout template.<br/>
 HTML and CSS template.
 # Demo
 https://labs.manohara.info/seamless/overlay/
